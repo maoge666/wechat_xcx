@@ -1,7 +1,5 @@
 <template>
-  <div>
-    master
-  </div>
+  <div></div>
 </template>
 
 <script>
